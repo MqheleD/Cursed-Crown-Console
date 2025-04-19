@@ -1,0 +1,7 @@
+C:\Users\Mqhele\Documents\Console Games\The Cursed Crown\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Mqhele\Documents\Console Games\The Cursed Crown\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mqhele\Documents\Console Games\The Cursed Crown\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mqhele\Documents\Console Games\The Cursed Crown\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Mqhele\Documents\Console Games\The Cursed Crown\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mqhele\Documents\Console Games\The Cursed Crown\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Mqhele\Documents\Console Games\The Cursed Crown\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
